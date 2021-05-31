@@ -13,4 +13,6 @@ ie.
  }   
  or "rgba(0, 255, 0, 0.3)" for example - (low opacity of 0.3 for pastel shades here). <br />
  
+ ![svg-pie-chart](svg-pie-chart.png?raw=true "SVG Pie Chart")
+ 
  
