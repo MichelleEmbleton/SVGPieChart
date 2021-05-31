@@ -15,4 +15,7 @@ ie.
  
  ![svg-pie-chart](svg-pie-chart.png?raw=true "SVG Pie Chart")
  
+  Use the data.json file as a template.  <br />
+  Shares (percents) should add up to 100 or less. Free space is calculated.
+ 
  
